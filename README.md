@@ -14,7 +14,6 @@ designed for defining a mission and automatically controlling the UAV through th
 
 This application is built based on [DJI Mobile SDK for Android](https://github.com/dji-sdk/Mobile-SDK-Android). <br />
 
-
 ## Getting Started
 
 ### Installation
